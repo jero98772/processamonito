@@ -127,10 +127,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## 🙏 Acknowledgements
 
-- [pybind11](https://github.com/pybind/pybind11) for Python bindings
-- [Flask](https://flask.palletsprojects.com/) for the web framework
-- [React](https://reactjs.org/) for the frontend framework
-- and EDY, teacher of opresives systems
+EDY, teacher of opresives systems
 
 
 ---
