@@ -132,6 +132,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - [React](https://reactjs.org/) for the frontend framework
 - and EDY, teacher of opresives systems
 
+
 ---
 
 Happy coding! 💻✨
