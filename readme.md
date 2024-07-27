@@ -127,7 +127,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## 🙏 Acknowledgements
 
-EDY, teacher of opresives systems
+[EDY](https://github.com/evalenciEAFIT), teacher of opresives systems
 
 
 ---
