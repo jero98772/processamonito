@@ -2,6 +2,8 @@
 
 A web application to monitor system processes using Flask, React, and WebSockets, with a backend powered by C++ and pybind11.
 
+![](https://github.com/jero98772/processamonito/blob/main/pictures/1.png)
+
 ## 🌟 Features
 
 - 🖥️ Real-time process monitoring
