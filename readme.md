@@ -36,10 +36,11 @@ A web application to monitor system processes using Flask, React, and WebSockets
     pip install flask flask-cors flask-socketio pybind11
     ```
 
-3. Compile the C++ code:
+3. Compile the C++ code(Yes compile c++ code):
 
     ```sh
-    c++ -O3 -Wall -shared -std=c++14 -fPIC $(python3 -m pybind11 --includes) process_monitor.cpp -o process_monitor$(python3-config --extension-suffix)
+    python setup.py build_ext --inplace
+
     ```
 
 4. Run the Flask app:
