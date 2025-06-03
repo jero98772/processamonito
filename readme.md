@@ -48,7 +48,7 @@ A web application to monitor system processes using Flask, React, and WebSockets
 4. Run the Flask app:
 
     ```sh
-    python app.py
+    python main.py
     ```
 
 ### Frontend Setup
